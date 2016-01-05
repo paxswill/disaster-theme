@@ -42,6 +42,10 @@ div.highlight pre {
   overflow-x: auto;
 }
 
+.prompt.input_prompt {
+	display: none;
+}
+
 footer {
   margin-top: 30px;
   padding-bottom: 10px;
